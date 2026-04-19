@@ -11,9 +11,13 @@ If the answer is wrong ❌ the game ends.
 ## ✨ Features
 
 🌎 Random country questions
+
 🧠 Test knowledge of world capitals
+
 📊 Live score tracking
+
 ✔ Instant answer feedback
+
 ❌ Game ends on wrong answer
 
 ---
