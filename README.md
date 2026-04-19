@@ -25,6 +25,7 @@ If the answer is wrong ❌ the game ends.
 ## 📸 Screenshots
 
 <img width="1919" height="1053" alt="image" src="https://github.com/user-attachments/assets/5b844546-9880-48ba-937a-d5a307cd50e5" />
+<img width="1913" height="1025" alt="image" src="https://github.com/user-attachments/assets/2e76863e-ab96-4774-8015-8228fb67b5a0" />
 
 ---
 
