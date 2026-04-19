@@ -24,8 +24,6 @@ If the answer is wrong ❌ the game ends.
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
-
 <img width="1919" height="1053" alt="image" src="https://github.com/user-attachments/assets/5b844546-9880-48ba-937a-d5a307cd50e5" />
 
 ---
